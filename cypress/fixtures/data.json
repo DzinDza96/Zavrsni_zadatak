@@ -1,0 +1,11 @@
+{
+    "user_data": {
+        "email": "dzindza.mladji@gmail.com",
+        "password": "test12345",
+        "profName": "Kornjaca",
+        "profLastName": "Mike",
+        "image": "https://img.jpg",
+        "profFullName": "Kornjaca Mike",
+        "gradebook": "mojdnevnik"
+    }
+}
